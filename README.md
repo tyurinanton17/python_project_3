@@ -16,11 +16,11 @@
 
 ### Форма ввода маршрута
 
-111111
+<img width="1440" alt="Снимок экрана 2024-12-23 в 23 55 01" src="https://github.com/user-attachments/assets/399a67c5-ef89-42b4-8b4a-e80271b0b15e" />
 
 ### Прогноз погоды и маршрут
 
-1111111
+<img width="1440" alt="Снимок экрана 2024-12-23 в 23 55 11" src="https://github.com/user-attachments/assets/7471c4e1-2d09-4ca1-870b-5524a8e1d092" />
 
 ---
 
